@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33110.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AddressBook", "AddressBook.csproj", "{9AD6E079-E16D-41EB-858D-0AFFEE4BF72E}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Repository", "Repository", "{D7137B82-5D33-4AAC-9912-2E19DC2C6190}"
+	ProjectSection(SolutionItems) = preProject
+		ContactDetailsRepository.cs = ContactDetailsRepository.cs
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Model", "Model", "{90F5A4D6-031A-463A-8742-8ADE9A2C9EA1}"
+	ProjectSection(SolutionItems) = preProject
+		ContactDetails.cs = ContactDetails.cs
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9AD6E079-E16D-41EB-858D-0AFFEE4BF72E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9AD6E079-E16D-41EB-858D-0AFFEE4BF72E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9AD6E079-E16D-41EB-858D-0AFFEE4BF72E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9AD6E079-E16D-41EB-858D-0AFFEE4BF72E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2AAFD209-754A-4AE3-A35B-54F49179A454}
+	EndGlobalSection
+EndGlobal
