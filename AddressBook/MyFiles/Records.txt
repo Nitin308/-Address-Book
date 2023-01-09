@@ -1,0 +1,16 @@
+First Name : Nitin
+Last Name : Sharma
+Address : Kashipur
+City : Kashipur
+State : Uttarahand
+Email : nks@gmail.com
+Zip code : 244713
+
+
+First Name : suraj
+Last Name : sharma
+Address : bijnor
+City : Dhampur
+State : Utter Pradesh
+Email : suraj@gmail.com
+Zip code : 246728
