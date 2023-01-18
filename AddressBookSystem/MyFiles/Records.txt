@@ -1,0 +1,16 @@
+First Name : Nitin
+Last Name : sharma
+Address : Kashipur
+City : Kahipur
+State : Uttarakhand
+Email : ns@gmail.com
+Zip code : 244713
+
+
+First Name : Suraj
+Last Name : Sharma
+Address : Omvihar
+City : Bazpur
+State : Uttarakhand
+Email : suraj@gmail.com
+Zip code : 244586
